@@ -36,7 +36,7 @@ text-shadow: 1px 1px 5px grey;
     min-height: 0px;
 }
 .items-list header h3 a {
-    color: white;text-shadow: 1px 1px 5px grey;
+    color: black;text-shadow: 1px 1px 5px grey;
 }
 .top-list a {
     font-size: 14px;
@@ -53,7 +53,7 @@ a {
     margin: 0 0 1px;
 }
  .top-list h1 span {
-    color: #ffffff;
+    color: black;
 }
 .btn-red {
     text-transform: uppercase;
@@ -79,7 +79,7 @@ img:hover {
   box-shadow: 0 0 5px 4px #979A9A;
 }
 img {border-radius: 5px;}
-h1   {text-align: center;color: #f4f4f4;filter: drop-shadow(1px 1px 5px #979A9A);
+h1   {text-align: center;color: black;filter: drop-shadow(1px 1px 5px #979A9A);
   border: px solid #;
   border-radius: 3px;
   padding: 4px;background-color: #cfad14;font-family: Helvetica;border: 2px solid #cfad14;border-radius: 3px;padding: 4px;}
