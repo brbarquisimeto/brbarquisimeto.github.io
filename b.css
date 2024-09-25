@@ -1,9 +1,14 @@
+element.style {
+}
+.lh-15 {
+    line-height: 1.5 !important;
+}
+.fs-22 {
+    font-size: 12px !important;
+}
 .ns-tbind-e-1 {display:none}
 element.style {
 none;   
-}
-.fs-22 {
-    font-size: 15px !important;
 }
 .badge-primary {
     color: #fff;
