@@ -21,11 +21,6 @@ a {
     background-color: #cfad14;
     border-color: #cfad14;
     box-shadow: none;
-};
-}
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: #fff;
-    background-color: #cfad14;
 }
 
 a {
