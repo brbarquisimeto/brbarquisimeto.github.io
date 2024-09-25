@@ -1,6 +1,3 @@
-.ns-319ua-e-4, .ns-319ua-e-7 {
-    display:none
-}
 .badge-primary {
     color: #fff;
     background-color: #cfad14;
@@ -14,7 +11,7 @@
     color: #f6b500 !important;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: #fff;
+    color: #000000;
     background-color: #cfad14;
 }
 
