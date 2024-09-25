@@ -1,7 +1,5 @@
 div#paises.container {display:none}
-element.style {
-none;   
-}
+element.style {display:none}
 .badge-primary {
     color: #fff;
     background-color: #cfad14;
