@@ -3,6 +3,10 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #cfad14;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
 .badge-primary {
     color: #fff;
     background-color: #cfad14;
