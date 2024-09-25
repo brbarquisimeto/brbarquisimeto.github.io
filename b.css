@@ -1,6 +1,5 @@
-div {
-    display: none;
-    unicode-bidi: isolate;
+element.style {
+none;   
 }
 .badge-primary {
     color: #fff;
