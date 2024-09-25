@@ -1,5 +1,11 @@
-div#paises.container {display:none}
-.paises {display:none}
+.container {
+    display:none
+    width: 0%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .badge-primary {
     color: #fff;
     background-color: #cfad14;
