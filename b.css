@@ -2,6 +2,9 @@
 element.style {
 none;   
 }
+.fs-22 {
+    font-size: 15px !important;
+}
 .badge-primary {
     color: #fff;
     background-color: #cfad14;
