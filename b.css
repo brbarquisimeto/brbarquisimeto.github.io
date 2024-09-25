@@ -8,7 +8,7 @@
     background-color: #cfad14;
 }
 .text-primary {
-    color: #cfad14;
+    color: #252525 !important;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
