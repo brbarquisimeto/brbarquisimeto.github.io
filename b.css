@@ -10,10 +10,6 @@
 .text-primary {
     color: #f6b500 !important;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: #000000;
-    background-color: #cfad14;
-}
 
 a {
     color: #f6b500;
