@@ -1,4 +1,5 @@
 element.style {
+    display: none;
     left: 0;
     position: absolute;
     top: 0;
@@ -6,8 +7,12 @@ element.style {
     width: 0px;
     height: 0px;
 }
-.ns-86pai-v-0 .ns-86pai-e-19 
-{display: none; padding: 0px 0px; width: 1%; height: 0px;}
+.ns-86pai-v-0 .ns-86pai-e-19 {
+    display: none;
+    padding: 0px 0px;
+    width: 1%
+    height: 0px;
+}
 
 element.style {
 }
