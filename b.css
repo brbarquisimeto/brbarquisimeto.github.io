@@ -1,17 +1,8 @@
-element.style {
-    display: none;
-    left: 0;
-    position: absolute;
-    top: 0;
-    border: 0;
-    width: 0px;
-    height: 0px;
+.ns-1hftz-e-0, .ns-1hftz-e-1, .ns-1hftz-e-2, .ns-1hftz-e-3, .ns-1hftz-v-4, .ns-1hftz-v-5, .ns-1hftz-v-6, .ns-1hftz-v-7, .ns-1hftz-e-8, .ns-1hftz-e-9, .ns-1hftz-e-10, .ns-1hftz-e-11, .ns-86pai-v-0 .ns-86pai-e-19 {
+display: none;
 }
-.ns-86pai-v-0 .ns-86pai-e-19 {
-    display: none;
-    padding: 0px 0px;
-    width: 1%
-    height: 0px;
+#mys-wrapper {
+display: none;
 }
 
 element.style {
