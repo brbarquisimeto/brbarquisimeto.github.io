@@ -1,12 +1,4 @@
 
-#mys-wrapper {
-display: none;
-}
-.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
-    color: #000000;
-    background-color: #cfad14;
-    border-color: #dee2e6 #dee2e6 #fff;
-}
 .lh-15 {
     line-height: 1.5 !important;
 }
