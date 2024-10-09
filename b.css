@@ -2,14 +2,6 @@
 style=display:none
 .paises img {display:none}
 .paises .themed-grid-col {display:none}
-#paises a {
-        background-image: url(https://www.bienesonline.com/venezuela/logos/logo-bienes-races-barquisimeto1698407657.jpg);
-        float: left;
-        width: 32px;
-        height: 32px;
-        margin-right: 8px;
-        margin-top: 5px;
-    }
 .text-muted {
     color: #fff !important;
 }
