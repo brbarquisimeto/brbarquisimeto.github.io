@@ -1,5 +1,11 @@
 p {
-    display: none;
+    display: none;    
+    color: #white;
+    filter: drop-shadow(1px 1px 5px #white);
+    border: px solid #;
+    border-radius: 1px;
+    background-color: white;
+    padding: 1px;
 }
 
 .lh-15 {
