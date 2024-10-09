@@ -1,4 +1,13 @@
-
+element.style {
+}
+p.col-md-auto.mb-0.text-muted {
+    text-align: center;
+    display: none;
+    width: 100% !important;
+}
+.text-muted {
+    color: #fff !important;
+}
 .lh-15 {
     line-height: 1.5 !important;
 }
