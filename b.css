@@ -1,5 +1,8 @@
+.main-header .container-fluid {
+            background-color: #cfad14;
+        }
+
 <div class="container" id="paises">
-<h3 class="mb-3 ">BienesOnline Internacional</h3>
 style=display:none
 .paises img {display:none}
 .paises .themed-grid-col {display:none}
