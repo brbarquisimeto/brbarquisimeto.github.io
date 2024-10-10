@@ -33,12 +33,7 @@ none;
     color: #000000;
     background-color: #cfad14;
 }
-}
-.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
-    color: #cfad14;
-    background-color: #fff;
-    border-color: #dee2e6 #dee2e6 #fff;
-}
+
 a {
     color: #f6b500;
     text-decoration: none;
@@ -49,9 +44,15 @@ a {
     background-color: #cfad14;
     border-color: #cfad14;
     box-shadow: none;
+};
 }
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #cfad14;
+}
+
 a {
-    color: #cfad14;
+    color: #f6b500;
     text-decoration: none;
     background-color: transparent;
 }
