@@ -22,6 +22,21 @@ none;
     background-color: #cfad14;
 }
 svg.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+.text-primary {
+    color: .badge-primary;
+}
+.fs-18 {
+    font-size: 18px !important;
+}
+.text-primary {
+    color: #f6b500 !impsvg.icon {
     color: #cfad14}
 .text-primary {
     color: .badge-primary {
