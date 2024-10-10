@@ -30,7 +30,7 @@ svg.icon {
     fill: currentColor;
 }
 .text-primary {
-    color: .badge-primary;
+    color: #cfad14 .badge-primary;
 }
 .fs-18 {
     font-size: 18px !important;
