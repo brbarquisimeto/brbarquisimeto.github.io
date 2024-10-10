@@ -17,7 +17,7 @@ style=display:none
 element.style {
 none;   
 }
-badge-primary {
+.badge-primary {
     color: #fff;
     background-color: #cfad14;
 }
