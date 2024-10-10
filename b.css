@@ -1,5 +1,4 @@
 <ins class="adsbygoogle" style=display:none
-
 <div class="container">
 <div class="container" id="paises">
 style=display:none
@@ -49,15 +48,9 @@ a {
     background-color: #cfad14;
     border-color: #cfad14;
     box-shadow: none;
-};
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: #fff;
-    background-color: #cfad14;
-}
-
 a {
-    color: #f6b500;
+    color: #cfad14;
     text-decoration: none;
     background-color: transparent;
 }
