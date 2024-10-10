@@ -17,27 +17,10 @@ style=display:none
 element.style {
 none;   
 }
-.badge-primary {
+badge-primary {
     color: #fff;
     background-color: #cfad14;
 }
-svg.icon {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
-}
-.text-primary {
-    color: #cfad14 .badge-primary;
-}
-.fs-18 {
-    font-size: 18px !important;
-}
-.text-primary {
-    color: #f6b500 !impsvg.icon {
-    color: #cfad14}
 .text-primary {
     color: .badge-primary {
     color: #fff;
@@ -49,6 +32,7 @@ svg.icon {
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #000000;
     background-color: #cfad14;
+}
 }
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
     color: #cfad14;
