@@ -6,8 +6,9 @@ style=display:none
 .paises img {display:none}
 .paises .themed-grid-col {display:none}
 .text-muted {
-    color: #fff !important; display:none
+    color: #fff !important;
 }
+.text-muted {display:none}
 .lh-15 {
     line-height: 1.5 !important;
 }
