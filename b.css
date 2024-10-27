@@ -1,4 +1,15 @@
-@media (max-width: 1200px) {
+/* sidebar.css dependiendo cual esta cargado */
+        @media (min-width: 1200px) {
+            #secundaryMenuSidebar {
+                display: none !important;
+            }
+
+            .position-xl-fixed {
+                position: fixed !important;
+            }
+        }
+
+        @media (max-width: 1200px) {
      #primaryMenuSidebar,
             #secundaryMenuSidebar {
                 display: none !important;
