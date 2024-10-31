@@ -37,18 +37,12 @@ none;
     background-color: #cfad14;
 }
 .text-primary {
-    color: .badge-primary {
-    color: #fff;
-    background-color: #cfad14;
-}
-.text-primary {
     color: #cfad14 !important;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+.nav-pills .nav-link.active, .nav-pills .show .nav-link {
     color: #000000;
     background-color: #cfad14;
 }
-
 a {
     color: #f6b500;
     text-decoration: none;
@@ -59,23 +53,10 @@ a {
     background-color: #cfad14;
     border-color: #cfad14;
     box-shadow: none;
-};
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
     background-color: #cfad14;
-}
-
-a {
-    color: #f6b500;
-    text-decoration: none;
-    background-color: transparent;
-}
-.btn-primary {
-    color: #fff;
-    background-color: #cfad14;
-    border-color: #cfad14;
-    box-shadow: none;
 }
 #search-header button.btn {
     background: #cfad14;
