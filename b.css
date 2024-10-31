@@ -5,6 +5,11 @@
 .text-primary {
     color: #cfad14 !important;
 }
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #cfad14;
+    background-color: #000000;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
 .nav-pills-01 .nav-link {
     color: #cfad14;
     position: relative;
