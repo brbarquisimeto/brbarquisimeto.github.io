@@ -1,3 +1,14 @@
+.badge-primary {
+    color: #fff;
+    background-color: #cfad14;
+}
+.text-primary {
+    color: #cfad14 !important;
+}
+.nav-pills .nav-link.active, .nav-pills .show .nav-link {
+    color: #000000;
+    background-color: #cfad14;
+}
 .mys-wrapper {display:none}
 .ns-c8ep8-e-2 {display:none}
 <ins class="adsbygoogle" style="display:none" data-ad-client="ca-pub-1348792180260118"
@@ -31,17 +42,6 @@ style=display:none
 .ns-tbind-e-1 {display:none}
 element.style {
 none;   
-}
-.badge-primary {
-    color: #fff;
-    background-color: #cfad14;
-}
-.text-primary {
-    color: #cfad14 !important;
-}
-.nav-pills .nav-link.active, .nav-pills .show .nav-link {
-    color: #000000;
-    background-color: #cfad14;
 }
 a {
     color: #f6b500;
