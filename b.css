@@ -1,3 +1,8 @@
+.col-lg-4 {
+        -ms-flex: 0 0 33.33333%;
+        flex: 0 0 33.33333%;
+        max-width: 28.33333%;
+    }
 .badge-primary {
     color: #fff;
     background-color: #cfad14;
