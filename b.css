@@ -47,6 +47,8 @@ style=display:none
 }
 .fs-22 {
     font-size: 16px !important;
+}.fs-16 {
+    font-size: 12px !important;
 }
 .ns-tbind-e-1 {display:none}
 element.style {
