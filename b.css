@@ -1,3 +1,9 @@
+.rc-anchor-center-item {
+    display: table-cell;
+    vertical-align: middle;
+max-width: 28.33333%;
+}
+}
 .col-lg-4 {
         -ms-flex: 0 0 33.33333%;
         flex: 0 0 33.33333%;
