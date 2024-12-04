@@ -37,14 +37,8 @@ max-width: 28.33333%;
     color: #000000;
     background-color: #cfad14;
 }
-.ns-zfenv-e-3 {
-    background-image: none;
-    background-repeat: no-repeat;
-    background-size: contain;
-    animation: fadein_keyframes .9s both;
-    background-position: center;
-    background-color: #fff;
-}
+.ns-zfenv-e-3 {background-image:none;}
+.ns-yv9hq-v-6 .ns-yv9hq-e-3, .ns-yv9hq-v-6 .ns-yv9hq-e-10 {display:none;background-image:none}
 .mys-wrapper {display:none}
 .ns-c8ep8-e-2 {display:none;background-image:none}
 .ns-c57n6-e-3 {display:none;background-image:none}
