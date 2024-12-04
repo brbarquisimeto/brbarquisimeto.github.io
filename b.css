@@ -33,8 +33,7 @@ max-width: 28.33333%;
     color: #cfad14;
     position: relative;
 }
-.ns-y2q16-v-11 .ns-y2q16-e-3, .ns-y2q16-v-11, .ns-y2q16-e-12, .ns-0hb8j-e-3, .ns-zfenv-e-3, .ns-jh6tz-e-1, .ns-yv9hq-v-6 .ns-yv9hq-e-3, .ns-yv9hq-v-6 .ns-yv9hq-e-10, .ns-lcazc-v-11 .ns-lcazc-e-3, .ns-lcazc-v-11, .ns-lcazc-e-12, .ns-c8ep8-e-2, .ns-c57n6-e-3 {min-height: 0px; display: none;background-image: none}
-.mys-wrapper {display: none}
+.mys-wrapper, .ns-y2q16-v-11 .ns-y2q16-e-3, .ns-y2q16-v-11, .ns-y2q16-e-12, .ns-0hb8j-e-3, .ns-zfenv-e-3, .ns-jh6tz-e-1, .ns-yv9hq-v-6 .ns-yv9hq-e-3, .ns-yv9hq-v-6 .ns-yv9hq-e-10, .ns-lcazc-v-11 .ns-lcazc-e-3, .ns-lcazc-v-11, .ns-lcazc-e-12, .ns-c8ep8-e-2, .ns-c57n6-e-3 {min-height: 0px; display: none;background-image: none}
 <ins class="adsbygoogle" style="display: none" data-ad-client="ca-pub-1348792180260118"
 .form-control-lg {
     height: calc(2em + 1.25rem + 4px);
