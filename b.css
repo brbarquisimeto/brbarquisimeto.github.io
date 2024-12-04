@@ -27,15 +27,12 @@ max-width: 28.33333%;
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
     color: #cfad14;
     background-color: #000000;
-    border-color: #dee2e6 #dee2e6 #fff;
+    border-color: #cfad14;
 }
 .nav-pills-01 .nav-link {
     color: #cfad14;
     position: relative;
 }
-.nav-pills .nav-link.active, .nav-pills .show .nav-link {
-    color: #000000;
-    background-color: #cfad14;
 }
 .ns-0hb8j-e-3 {display: none;}
 .ns-zfenv-e-3 {background-image: none;}
