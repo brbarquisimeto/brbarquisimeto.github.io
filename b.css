@@ -1,3 +1,7 @@
+path[Attributes Style] {
+    fill: #861b25;
+    d: path("M 32 32 c 17.7 0 32 14.3 32 32 l 0 256 l 224 0 l 0 -160 c 0 -17.7 14.3 -32 32 -32 l 224 0 c 53 0 96 43 96 96 l 0 224 c 0 17.7 -14.3 32 -32 32 s -32 -14.3 -32 -32 l 0 -32 l -224 0 l -32 0 L 64 416 l 0 32 c 0 17.7 -14.3 32 -32 32 s -32 -14.3 -32 -32 L 0 64 C 0 46.3 14.3 32 32 32 Z m 144 96 a 80 80 0 1 1 0 160 a 80 80 0 1 1 0 -160 Z");
+}
 .form-control-lg {
     height: calc(2em + 1.25rem + 4px);
     padding: 0.525rem 1rem;
@@ -117,7 +121,7 @@ text-shadow: 1px 1px 5px grey;
     min-height: 0px;
 }
 .items-list header h3 a {
-    color: black;text-shadow: 1px 1px 5px grey;
+    color: white;text-shadow: 1px 1px 5px grey;
 }
 .top-list a {
     font-size: 14px;
@@ -164,11 +168,11 @@ h1   {text-align: center;color: black;filter: drop-shadow(1px 1px 5px #979A9A);
   border: px solid #;
   border-radius: 3px;
   padding: 4px;background-color: #861b25;font-family: Helvetica;border: 2px solid #861b25;border-radius: 3px;padding: 4px;}
-h3   {text-align: center;color: #f4f4f4;filter: drop-shadow(1px 1px 5px #979A9A);
+h3   {text-align: center;color: white;filter: drop-shadow(1px 1px 5px #979A9A);
   border: px solid #;
   border-radius: 3px;
   padding: 5px;background-color: #861b25;font-family: Helvetica;border: 2px solid #861b25;border-radius: 3px;padding: 5px;}
-h4 {color: #white;font-family: Helvetica;}
+h4 {color: white;font-family: Helvetica;}
 p    {color: #Gray;filter: drop-shadow(1px 1px 5px #979A9A);
   border: px solid #;
   border-radius: 3px;background-color: white
